@@ -1,4 +1,4 @@
-#Basic project
+#Calculator
 
 *Simple Project*
 
